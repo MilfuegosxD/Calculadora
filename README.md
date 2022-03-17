@@ -14,7 +14,7 @@ El código se encuentra en:
 * Solucionar errores.
 * Añadir un icono propio.
 
-![Calculadora Logo](lacalculadoramasmalota.png)
+![Calculadora Logo](https://i.imgur.com/J31OQGp.png)
 #### *By MilfuegosxD*
 ---
 
