@@ -9,7 +9,7 @@ El código se encuentra en:
 [Código](https://github.com/MilfuegosxD/Calculadora/blob/main/codigo.py"Código.py")
 
 El programa ejecutable se encuentra en:
-[Programa](https://github.com/MilfuegosxD/Calculadora/tree/main/ejecutable"Calculadora.exe")
+[Programa](https://github.com/MilfuegosxD/Calculadora/tree/main/ejecutable)
 
 #### Aún estoy aprendiendo como funciona esto de GitHub así que cualquier recomendación será aceptada. 
 #### Ideas para próximas actualizaciones:
